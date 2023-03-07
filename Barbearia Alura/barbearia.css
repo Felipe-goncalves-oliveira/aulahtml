@@ -1,0 +1,70 @@
+#banner{
+  width: 90%;
+}
+
+.principal{
+  background-color: #1b4f72;
+}
+
+body{
+  background-color: #154360;
+}
+
+.titulo-principal{
+  font-weight: normal;
+  text-align: center;
+  font-size: 50px;
+  font-family: monospace;
+}
+
+.sub-titulo{
+
+  font-size: 25px;
+  font-family: monospace;
+  color: #ecf0f1;
+}
+
+#resumo{
+  font-family: sans-serif;
+  font-size: 20px;
+  color: #ecf0f1;
+}
+
+#missao{
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #ecf0f1;
+}
+
+#atendimento{
+  font-size: 15px;
+  font-family: sans-serif;
+  color: #ecf0f1
+}
+
+.beneficios{
+color: #ecf0f1;
+}
+
+.titulo3{
+  padding: 20px;
+  font-size: 30px;
+  font-family: monospace;
+  text-align: center
+}
+
+.itens{
+  font-style: italic;
+  text-align: left;
+}
+
+ul{
+  margin-right: 15%;
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+}
+
+.beneficiosimg{
+  width: 50%;
+}
